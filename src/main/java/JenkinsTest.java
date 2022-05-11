@@ -6,4 +6,3 @@ public class JenkinsTest {
         System.out.println(LocalDateTime.now());
     }
 }
-g
